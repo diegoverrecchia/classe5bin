@@ -3,6 +3,6 @@ Uno dei miei piatti preferiti
 ## Ingredienti:
 * Spaghetti
 * Aglio
-* Olio
+* Olio extra vergine d'oliva
 * Peperoncino
 * Prezzemolo
