@@ -6,3 +6,4 @@ Uno dei miei piatti preferiti
 * Olio extra vergine d'oliva
 * Peperoncino
 * Prezzemolo
+* Sale
