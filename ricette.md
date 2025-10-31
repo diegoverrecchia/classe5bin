@@ -1,4 +1,9 @@
 # Ricette di famiglia
+
 ## Elenco delle ricette
+
+* Ricetta "Spaghetti aglio, olio e peperoncino"
 file spaghetti1.md
-Ricetta "Spaghetti aglio, olio e peperoncino"
+
+* Ricetta "Pennette al salmone"
+file: pennette2.md
