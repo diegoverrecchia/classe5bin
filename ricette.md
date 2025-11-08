@@ -2,8 +2,14 @@
 
 ## Elenco delle ricette
 
+* Ricetta "Spaghetti aglio, olio e peperoncino"
 file spaghetti1.md
-Ricetta "Spaghetti aglio, olio e peperoncino"
 
+* Ricetta "Risotto ai funghi"
 file risotto1.md
-Ricetta "Risotto ai funghi"
+
+* Ricetta "Pennette alla carbonara"
+file pennette1.md
+
+* Ricetta "Pennette al salmone"
+file: pennette2.md
